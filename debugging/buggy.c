@@ -2,6 +2,7 @@
 #include <cs50.h>
 #include <math.h>
 
+//this is just an alternative way to define a constant
 #define BASE 2
 
 // returns true if binary, false if not binary
