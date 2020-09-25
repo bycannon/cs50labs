@@ -55,6 +55,8 @@ Yes, this is actually a thing! The idea is to explain your code, line-by-line, t
 Since we are on distance learning this year, we are unable to provide you with your own physical rubber duck :( 
 However, a virtual helper has been embedded into the CS50 IDE :)
 
+<img src="https://github.com/bycannon/cs50labs/blob/2019/debugging/ddb.jpg" width="400px">
+
 ### Compile and test code frequently
 
 In general, it's a good idea to compile and run our code frequently to get immediate feedback. This way when we do have a bug, we can be fairly certain it is contained in the new segment of code we just finished writing.
