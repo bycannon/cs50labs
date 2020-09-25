@@ -1,4 +1,4 @@
-# Command-Line Interaction
+# Command-Line Arguments
 
 In this lab you will learn:
 
