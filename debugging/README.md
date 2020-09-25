@@ -56,7 +56,7 @@ Yes, this is actually a thing! The idea is to explain your code, line-by-line, t
 Since we are on distance learning this year, we are unable to provide you with your own physical rubber duck :mask: . <br>
 However, a virtual helper has been embedded into the CS50 IDE :smiley: .
 
-<img src="https://raw.githubusercontent.com/bycannon/cs50labs/blob/2020/debugging/ddb.jpg" width="400px">
+<img src="https://github.com/bycannon/cs50labs/blob/2020/debugging/ddb.jpg?raw=true" width="400px">
 
 ### Compile and test code frequently
 
