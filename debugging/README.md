@@ -52,6 +52,9 @@ This will toggle comments on and off.
 
 Yes, this is actually a thing! The idea is to explain your code, line-by-line, to a rubber duck, or another inanimate object. In describing what our code is supposed to do, and observing what it actually does, our error can become apparent. Forcing ourselves to explain code line-by-line can provide a deeper understanding as well.
 
+Since we are on distance learning this year, we are unable to provide you with your own physical rubber duck :( 
+However, a virtual helper has been embedded into the CS50 IDE :)
+
 ### Compile and test code frequently
 
 In general, it's a good idea to compile and run our code frequently to get immediate feedback. This way when we do have a bug, we can be fairly certain it is contained in the new segment of code we just finished writing.
