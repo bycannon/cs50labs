@@ -40,6 +40,8 @@ Complete the implementation of `scrabble.c`, such that it determines the winner 
 * Recall that computers represent characters using ASCII, a standard that represents each character as a number.
 {% endspoiler %}
 
+{% next %}
+
 ## How to Test Your Code
 Your program should behave per the examples below.
 
