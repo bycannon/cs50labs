@@ -37,7 +37,7 @@ Complete the implementation of `scrabble.c`, such that it determines the winner 
 {% spoiler "Hints" %}
 * You may find the functions `isupper()` and `islower()` to be helpful to you. These functions take in a character as the argument and return a boolean.
 * To find the value at the `nth` index of an array called `arr`, we can write `arr[n]`. We can apply this to strings as well, as strings are arrays of characters.
-* Recall that computers represent characters using <a href="http://www.asciitable.com/} ASCII {/a}, a standard that represents each character as a number.  As such, you can do simple arithmetic operations with characters, such as addition and subtraction, as in `'B' - 'A' = 1`.
+* Recall that computers represent characters using <a href="http://www.asciitable.com/"} ASCII {/a}, a standard that represents each character as a number.  As such, you can do simple arithmetic operations with characters, such as addition and subtraction, as in `'B' - 'A' = 1`.
 
 {% endspoiler %}
 
